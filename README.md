@@ -2,4 +2,4 @@
 
 HTML5, CSS3 e Javascript
 
-OIIIIIIIIII
+Pasta de estudos sobre HTML5, CSS3 e Javascript
